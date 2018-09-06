@@ -1,0 +1,6 @@
+framework module STaticTest {
+  umbrella header "STaticTest.h"
+
+  export *
+  module * { export * }
+}
