@@ -11,6 +11,7 @@
 @implementation TestOrder
 + (void)sayHelly
 {
-    NSLog(@"这是一个测试的工程");
+    NSLog(@"我们并立天河下");
+    NSLog(@"人间已落沉睡里");
 }
 @end

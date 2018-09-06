@@ -3,7 +3,7 @@
 //  STaticTest
 //
 //  Created by ljq on 2018/7/2.
-//  Copyright © 2018年 ICBC. All rights reserved.
+//  Copyright © 2018年  All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
